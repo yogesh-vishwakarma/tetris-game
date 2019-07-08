@@ -15,6 +15,10 @@ List of some UNIX commands used in this project:
 •	trap(For performing actions on the signals)
 Tetris is a tile-matching puzzle video game, originally designed and programmed by Russian game designer Alexey Pajitnov.
 ![Output Example1](/images/1.jpg)
+Format: ![Alt Text](url)
 ![Output Example2](/images/2.jpg)
+Format: ![Alt Text](url)
 ![Output Example3](/images/3.jpg)
+Format: ![Alt Text](url)
 ![Output Example4](/images/4.jpg)
+Format: ![Alt Text](url)
