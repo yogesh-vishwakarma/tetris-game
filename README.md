@@ -14,7 +14,7 @@ List of some UNIX commands used in this project:
 •	RANDOM(For generating random numbers)
 •	trap(For performing actions on the signals)
 Tetris is a tile-matching puzzle video game, originally designed and programmed by Russian game designer Alexey Pajitnov.
-![Output Example1](/images/1.png)
-![Output Example2](/images/2.png)
-![Output Example3](/images/3.png)
-![Output Example4](/images/4.png)
+![Output Example1](/images/1.jpg)
+![Output Example2](/images/2.jpg)
+![Output Example3](/images/3.jpg)
+![Output Example4](/images/4.jpg)
